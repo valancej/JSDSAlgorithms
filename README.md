@@ -1,3 +1,3 @@
-# JSAlgorithms
+# JSDSAlgorithms
 
-Common JavaScript Algorithms
+Common JavaScript DS & Algorithms
