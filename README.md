@@ -1,1 +1,3 @@
 # JSAlgorithms
+
+Common JavaScript Algorithms
